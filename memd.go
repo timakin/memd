@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/douban/libmc/golibmc/src"
+	"github.com/douban/libmc/src"
 	"github.com/ugorji/go/codec"
 )
 
