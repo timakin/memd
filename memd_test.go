@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/douban/libmc/golibmc"
+	"github.com/douban/libmc/src"
 	"github.com/ugorji/go/codec"
 )
 
